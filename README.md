@@ -1,3 +1,6 @@
+
+![MindMate Logo](https://play-lh.googleusercontent.com/mtIhWDlj3wfzgjlRxqcXbDRG-CPcC6DuV4jHgwZjHlv1Qbwnt8foLG4VQ-xLB-oV4w=w240-h480-rw)
+
 # Welcome to MindMate
 
 Welcome to MindMate - the GPT Chatbot integration that offers more than just conversation. With MindMate, you'll be able to chat with different characters of AI, use our document scanner feature, and benefit from a beautiful user interface with a dark mode and dynamic theme and Ad free content.
